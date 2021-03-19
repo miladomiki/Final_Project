@@ -18,10 +18,13 @@ FILES THAT CAN BE CHANGED(CAN BE REPLACED):
 The instruction for editing the website to your style:
 
 1)download the the zip files.
-2)extract files into any of your folders.
-3)open folder named "FINAL".
-4)"db.json" consist of database made by json and fake API
-5)In this step you can open this folder and open any of html,css or js files with any of code editors and edit this.
+2)
+3)extract files into any of your folders.
+4)
+5)open folder named "FINAL".
+6)
+7)"db.json" consist of database made by json and fake API
+8)In this step you can open this folder and open any of html,css or js files with any of code editors and edit this.
 
 Enjoy!
 
