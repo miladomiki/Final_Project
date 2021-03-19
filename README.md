@@ -3,6 +3,7 @@
 This is the instruction for running website by your own.
 
 This project consist of .png, .jpg, .gif, .html, .js and .css. 
+
 FILES THAT CANNOT BE CHANGED(CAN BE REPLACED):
 - Such files as png, gif and png are cannot be changed, but still can be replaced by giving the same name as given.
 
