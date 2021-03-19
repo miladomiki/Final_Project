@@ -12,7 +12,7 @@ This project consist of .png, .jpg, .gif, .html, .js and .css.
 
  **The instruction for reviewing the original website:**
  
-1)download the the zip files.
+1)download.
 
 2)extract files into any of your folders.
 
@@ -24,7 +24,7 @@ This project consist of .png, .jpg, .gif, .html, .js and .css.
 
 **The instruction for editing the website to your style:**
 
-1)download the the zip files.
+1)download.
 
 2)extract files into any of your folders.
 
