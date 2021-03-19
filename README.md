@@ -16,9 +16,11 @@ This project consist of .png, .jpg, .gif, .html, .js and .css.
 
 2)extract files into any of your folders.
 
-3)open folder named "FINAL".
+3)There you can find folders named "images", "css files", "javascript files", "html files" and db.json.
 
-4)double tap any of .html files to show the website
+4)open folder named "html files".
+
+5)double tap any of .html files to show the website 
 
 **The instruction for editing the website to your style:**
 
@@ -26,11 +28,13 @@ This project consist of .png, .jpg, .gif, .html, .js and .css.
 
 2)extract files into any of your folders.
 
-3)open folder named "FINAL".
+3)There you can find folders named "images", "css files", "javascript files", "html files" and db.json.
 
-4)"db.json" consist of database made by json and fake API
+4)"db.json" consist of database made by json and fake API.
 
-5)In this step you can open this folder and open any of html,css or js files with any of code editors and edit this.
+5)In this step you can open "css files", "javascript files" or "html files" folder and open any of html,css or js files with any of code editors and edit this.
+
+6)save everything and open any of html files from "html files" folder to look how it looks.
 
 Enjoy!
 
