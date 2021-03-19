@@ -10,7 +10,7 @@ FILES THAT CANNOT BE CHANGED(CAN BE REPLACED):
 FILES THAT CAN BE CHANGED(CAN BE REPLACED):
 - Any of html, js or css files.
 
- The instruction for reviewing the original website: 
+ **The instruction for reviewing the original website:**
  
 1)download the the zip files.
 
