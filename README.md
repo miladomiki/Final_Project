@@ -1,13 +1,13 @@
 # Final_Project
 
-This is the instruction for running website by your own.
+**This is the instruction for running website by your own.
 
 This project consist of .png, .jpg, .gif, .html, .js and .css. 
 
-FILES THAT CANNOT BE CHANGED(CAN BE REPLACED):
+**FILES THAT CANNOT BE CHANGED(CAN BE REPLACED):
 - Such files as png, gif and png are cannot be changed, but still can be replaced by giving the same name as given.
 
-FILES THAT CAN BE CHANGED(CAN BE REPLACED):
+**FILES THAT CAN BE CHANGED(CAN BE REPLACED):
 - Any of html, js or css files.
 
  **The instruction for reviewing the original website:**
@@ -20,7 +20,7 @@ FILES THAT CAN BE CHANGED(CAN BE REPLACED):
 
 4)double tap any of .html files to show the website
 
-The instruction for editing the website to your style:
+**The instruction for editing the website to your style:
 
 1)download the the zip files.
 
@@ -34,4 +34,4 @@ The instruction for editing the website to your style:
 
 Enjoy!
 
-made by Kuanysh Zhardenbay and Diana Kusherbaeva 
+**made by Kuanysh Zhardenbay and Diana Kusherbaeva 
